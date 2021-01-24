@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(184, 253, 253);
+}
+h1 {
+    font-family:'Lucida Sans'; 
+    color:orange;
+}
+#sorting {
+    display:none;
+    color:coral;
+}
+#button1 {
+    color:coral;
+}
+button {
+    margin-top:20px;
+    margin-bottom:20px;
+}
